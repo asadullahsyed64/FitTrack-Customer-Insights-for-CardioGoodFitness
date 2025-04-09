@@ -42,7 +42,7 @@ The insights will help CardioGoodFitness create targeted marketing strategies, o
 ## How to Use This Project
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/FitTrack.git
+   git clone https://github.com/asadullahsyed64/FitTrack-Customer-Insights-for-CardioGoodFitness.git
    ```
 2. Navigate to the project directory:
    ```sh
@@ -56,7 +56,6 @@ The insights will help CardioGoodFitness create targeted marketing strategies, o
    ```sh
    jupyter notebook
    ```
-5. Open the notebook and execute the cells to see data insights.
 
 ## Results & Findings
 - Customers with higher fitness levels tend to purchase advanced models.
